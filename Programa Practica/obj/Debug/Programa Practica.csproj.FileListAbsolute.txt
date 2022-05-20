@@ -1,0 +1,7 @@
+C:\Users\santo\Documents\proyectos\semestre 2\U5\Programa Practica\bin\Debug\Programa Practica.exe.config
+C:\Users\santo\Documents\proyectos\semestre 2\U5\Programa Practica\bin\Debug\Programa Practica.exe
+C:\Users\santo\Documents\proyectos\semestre 2\U5\Programa Practica\bin\Debug\Programa Practica.pdb
+C:\Users\santo\Documents\proyectos\semestre 2\U5\Programa Practica\obj\Debug\Programa Practica.csproj.AssemblyReference.cache
+C:\Users\santo\Documents\proyectos\semestre 2\U5\Programa Practica\obj\Debug\Programa Practica.csproj.CoreCompileInputs.cache
+C:\Users\santo\Documents\proyectos\semestre 2\U5\Programa Practica\obj\Debug\Programa Practica.exe
+C:\Users\santo\Documents\proyectos\semestre 2\U5\Programa Practica\obj\Debug\Programa Practica.pdb
